@@ -36,3 +36,5 @@ cd \~
 rm -rf /tmp/core-build-test
 echo -e "\033[0;32m✅ Rebranding completed and pushed!\033[0m"
 echo -e "Refresh dashboard: https://faceprintpay.github.io/fp-build-fixer/"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=blackbox-github-update.sh
